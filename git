@@ -1,0 +1,85 @@
+[33mcommit 8177941c11162e6aab2959f7fb1cff35d485ae33[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlearning[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Apr 21 10:34:03 2023 +0200
+
+    Added mentor-mentee framework and additional information
+    
+    Signed-off-by: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+
+[33mcommit 465aecccacc61df64c893a9538c7d0504abc1dfd[m
+Merge: 19c21c7 8e4502f
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Thu Oct 28 16:36:10 2021 +0200
+
+    Merge pull request #5 from cncf/contributing-section
+    
+    add contributing section
+
+[33mcommit 8e4502f522fdae9b363a90267d97aae15b408315[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Thu Oct 28 16:35:55 2021 +0200
+
+    add contributing section
+
+[33mcommit 19c21c7de7c14dddbff1e4e44da2c0e287eaaa88[m
+Merge: 4ce4dd9 7f4155b
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Mon Oct 25 22:18:32 2021 +0200
+
+    Merge pull request #4 from cncf/add-kcna-info
+    
+    add kcna
+
+[33mcommit 7f4155bf9df26c315452004ee93d7dd3b131ce98[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Mon Oct 25 22:18:13 2021 +0200
+
+    Update README.md
+
+[33mcommit 4ce4dd9baf401588abb757b062167b79e9e82be4[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Mon Aug 9 15:34:53 2021 +0200
+
+    reordering
+
+[33mcommit 9ccc1880fa1bf63ad6c5fd24f19e8b1f10b24278[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Tue Jun 8 22:34:14 2021 +0200
+
+    Update README.md
+
+[33mcommit 2f8df255abbe86fdead6664d2987d8f0f9ede563[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Tue Jun 8 22:32:04 2021 +0200
+
+    Update program-ideas.md
+
+[33mcommit 22b6c6b87ef111d80bc10db8c4db7682eaa6b83e[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Tue Jun 8 22:29:46 2021 +0200
+
+    Create program-ideas.md
+
+[33mcommit db30d447841e442d3e0af8dc752c3652ea853756[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Tue Jun 8 22:08:00 2021 +0200
+
+    Update README.md
+
+[33mcommit da5df7b785d37b02b3460402da35c89fb4454442[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Tue Jun 8 22:02:50 2021 +0200
+
+    Update README.md
+
+[33mcommit 1f2fed2117ad206db6aed5f06a296455c65b8e66[m
+Author: Bill Mulligan <bmulligan@linuxfoundation.org>
+Date:   Tue Jun 8 22:00:57 2021 +0200
+
+    Update README.md
+
+[33mcommit a93e0c801b8873be6142b03c21c79d7df570ce8e[m
+Author: Bill Mulligan <pba_32@msn.com>
+Date:   Tue Jun 8 21:58:46 2021 +0200
+
+    Initial commit
