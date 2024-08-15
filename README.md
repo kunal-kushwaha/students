@@ -25,7 +25,7 @@ By building a cloud native community on your campus, you help your fellow studen
 
 # Resources
 
-* [Twitter](https://twitter.com/cncfstudents)
+* [X](https://x.com/cncfstudents)
 * [Community group](https://community.cncf.io/cloud-native-students)
 * [Mentor-mentee framework](./mentor-mentee-framework/README.md)
 
